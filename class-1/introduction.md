@@ -44,4 +44,6 @@ tsconfig.json
 
 Create a file with .ts extension:
 
-first.ts
+first.
+
+#typescript simple types is the way of declearning value
